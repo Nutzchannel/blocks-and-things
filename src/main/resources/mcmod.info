@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "blocksandthings",
+  "name": "Blocks And Things",
+  "description": "A WIP mod by Men in Shorts",
+  "version": "0.0.1",
+  "mcversion": "1.7.10",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Nutzchannel"],
+  "credits": "The contributors on GitHub and staff",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
